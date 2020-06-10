@@ -1,6 +1,6 @@
 # 2dArray
 
-/**Author: Bill Yang
+/**Author: Bill
 5 24 2020
 This program is to implement a state machine diagram for a online tutoring website, more details please check courseFlow.pdf.
 The input file is stateMachine.csv, format likes 1>0>2 or 1>1>4, the three integers respectively means the cur_state, check conditions and next_state.
