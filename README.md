@@ -1,5 +1,5 @@
-![](/image/1)
-![](/image/2)
+![](https://github.com/thestillwaters/2dArray/blob/master/image/1.JPG)
+![](https://github.com/thestillwaters/2dArray/blob/master/image/2.JPG)
 
 
 # 2dArray
