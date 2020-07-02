@@ -1,5 +1,5 @@
-![](https://github.com/thestillwaters/2dArray/blob/master/image/1.JPG)
-![](https://github.com/thestillwaters/2dArray/blob/master/image/2.JPG)
+![](https://github.com/thestillwaters/2dArray/blob/master/image/1.JPG=250x250)
+![](https://github.com/thestillwaters/2dArray/blob/master/image/2.JPG=250x250)
 
 
 # 2dArray
